@@ -1,0 +1,35 @@
+.formstyle  
+{  
+width: 330px;  
+height: 600px;  
+margin: auto; 
+margin-top: 15px;
+border: 3px black solid;  
+border-radius: 5px;  
+padding: 25px; 
+background-color: rgb(36, 66, 77); 
+}
+.cal
+{  
+    width: 270px;  
+    border: 5px solid black;    
+    border-radius: 3px;  
+    padding: 20px;  
+    margin: auto; 
+    justify-content: center; 
+ }
+
+input  {  
+width: 25px;  
+background-color:rgb(9, 125, 164);  
+color: white;  
+border: 3px solid rgb(239, 229, 229);  
+border-radius: 5px;  
+padding: 23px;  
+margin: 5px;  
+font: size 20px;
+justify-content: center;
+}
+body{
+    background: linear-gradient(to right, skyblue, white);
+}
